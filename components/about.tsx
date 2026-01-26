@@ -25,7 +25,7 @@ export default function About() {
   })
 
 
-  // #about {
+  // #abouttttt {
   //  @apply min-h-screen py-28 2xl:px-0 px-5 container mx-auto;
 
   //  .content {

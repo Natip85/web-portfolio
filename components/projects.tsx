@@ -85,11 +85,11 @@ export default function Projects() {
             alt="Quick Jot project screenshot"
             className="object-cover w-full h-full transition-transform duration-500 ease-out group-hover:scale-110"
           />
-          <div className="absolute inset-0 z-10 backdrop-blur-sm flex flex-col justify-end p-6 opacity-0 group-hover:opacity-100 transition-all duration-500 ease-out">
-            <h3 className="text-white text-xl font-bold mb-1 translate-y-4 group-hover:translate-y-0 transition-transform duration-500 ease-out">
+          <div className="absolute inset-0 z-10 backdrop-blur-[2px] bg-black/30 sm:bg-transparent sm:backdrop-blur-sm flex flex-col justify-end p-6 opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-all duration-500 ease-out">
+            <h3 className="text-white text-xl font-bold mb-1 translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 ease-out">
               Quick-Jot
             </h3>
-            <p className="text-white/70 text-sm translate-y-4 group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
+            <p className="text-white/70 text-sm translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
               Quick Jot was built for fast, organized writing. It combines a
               clean folder tree with a rich‑text editor that supports modern
               formatting and autosaves edits in the background for a smooth,
@@ -110,11 +110,11 @@ export default function Projects() {
             alt="Dunzio project screenshot"
             className="object-cover w-full h-full transition-transform duration-500 ease-out group-hover:scale-110"
           />
-          <div className="absolute inset-0 z-10 backdrop-blur-sm flex flex-col justify-end p-6 opacity-0 group-hover:opacity-100 transition-all duration-500 ease-out">
-            <h3 className="text-white text-xl font-bold mb-1 translate-y-4 group-hover:translate-y-0 transition-transform duration-500 ease-out">
+          <div className="absolute inset-0 z-10 backdrop-blur-[2px] bg-black/30 sm:bg-transparent sm:backdrop-blur-sm flex flex-col justify-end p-6 opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-all duration-500 ease-out">
+            <h3 className="text-white text-xl font-bold mb-1 translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 ease-out">
               Dunzio
             </h3>
-            <p className="text-white/70 text-sm translate-y-4 group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
+            <p className="text-white/70 text-sm translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
               Dunzio is a full‑stack, type‑safe project management web app where
               teams can organize projects into Kanban boards, manage tasks
               through a workflow, and collaborate in a structured workspace.
@@ -134,11 +134,11 @@ export default function Projects() {
             alt="Ecommerce project screenshot"
             className="object-cover w-full h-full transition-transform duration-500 ease-out group-hover:scale-110"
           />
-          <div className="absolute inset-0 z-10 backdrop-blur-sm flex flex-col justify-end p-6 opacity-0 group-hover:opacity-100 transition-all duration-500 ease-out">
-            <h3 className="text-white text-xl font-bold mb-1 translate-y-4 group-hover:translate-y-0 transition-transform duration-500 ease-out">
+          <div className="absolute inset-0 z-10 backdrop-blur-[2px] bg-black/30 sm:bg-transparent sm:backdrop-blur-sm flex flex-col justify-end p-6 opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-all duration-500 ease-out">
+            <h3 className="text-white text-xl font-bold mb-1 translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 ease-out">
               Ecommerce
             </h3>
-            <p className="text-white/70 text-sm translate-y-4 group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
+            <p className="text-white/70 text-sm translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
               Ecommerce covers the complete shopping journey—from browsing and
               searching products to cart, checkout, and order
               confirmation—backed by a real database and an admin dashboard.
@@ -160,11 +160,11 @@ export default function Projects() {
             alt="Wiz Kids project screenshot"
             className="object-cover w-full h-full transition-transform duration-500 ease-out group-hover:scale-110"
           />
-          <div className="absolute inset-0 z-10 backdrop-blur-sm flex flex-col justify-end p-6 opacity-0 group-hover:opacity-100 transition-all duration-500 ease-out">
-            <h3 className="text-white text-xl font-bold mb-1 translate-y-4 group-hover:translate-y-0 transition-transform duration-500 ease-out">
+          <div className="absolute inset-0 z-10 backdrop-blur-[2px] bg-black/30 sm:bg-transparent sm:backdrop-blur-sm flex flex-col justify-end p-6 opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-all duration-500 ease-out">
+            <h3 className="text-white text-xl font-bold mb-1 translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 ease-out">
               Wiz Kids
             </h3>
-            <p className="text-white/70 text-sm translate-y-4 group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
+            <p className="text-white/70 text-sm translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
               Wiz kids is an AI powered learning platform that turns practice
               into a structured “playground” of short, trackable quiz sessions.
               Users sign in, configure a quiz, and work through interactive
@@ -181,11 +181,11 @@ export default function Projects() {
             alt="Coming Soon..."
             className="object-cover w-full h-full transition-transform duration-500 ease-out group-hover:scale-110"
           />
-          <div className="absolute inset-0 z-10 backdrop-blur-sm flex flex-col justify-end p-6 opacity-0 group-hover:opacity-100 transition-all duration-500 ease-out">
-            <h3 className="text-white text-xl font-bold mb-1 translate-y-4 group-hover:translate-y-0 transition-transform duration-500 ease-out">
+          <div className="absolute inset-0 z-10 backdrop-blur-[2px] bg-black/30 sm:bg-transparent sm:backdrop-blur-sm flex flex-col justify-end p-6 opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-all duration-500 ease-out">
+            <h3 className="text-white text-xl font-bold mb-1 translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 ease-out">
               Coming Soon...
             </h3>
-            <p className="text-white/70 text-sm translate-y-4 group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
+            <p className="text-white/70 text-sm translate-y-0 sm:translate-y-4 sm:group-hover:translate-y-0 transition-transform duration-500 delay-75 ease-out">
               Your next project is just around the corner.
             </p>
           </div>
